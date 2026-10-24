@@ -1,4 +1,4 @@
-# Auth API — GDG Algiers Task 02
+# Auth API — GDG Algiers 
 
 A small REST API demonstrating secure signup, login, password hashing, JWT issuing, and JWT verification.
 
